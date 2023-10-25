@@ -1,3 +1,4 @@
 simulated-bifurcation
 numpy
 pytorch
+sympy
